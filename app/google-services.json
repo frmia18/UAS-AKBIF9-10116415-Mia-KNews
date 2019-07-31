@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342816189465",
+    "firebase_url": "https://lahaula-cdc66.firebaseio.com",
+    "project_id": "lahaula-cdc66",
+    "storage_bucket": "lahaula-cdc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342816189465:android:2cbc409044e8051f",
+        "android_client_info": {
+          "package_name": "com.app.frda.lahaula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342816189465-m148fqevivq2laalvcasop88a02h45b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.frda.lahaula",
+            "certificate_hash": "2e4b54099a4eab5f7380cf9a2956aff2fd12b8e2"
+          }
+        },
+        {
+          "client_id": "342816189465-nhjkebtefomck8pf6fiqp63arogb1hfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0nwyVIS-xnyNfXIy6gUCdqCLQsr94mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342816189465-nhjkebtefomck8pf6fiqp63arogb1hfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
